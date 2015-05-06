@@ -1,7 +1,0 @@
-/Users/mva/projects/rho/rho-private-apps/MobileInstallationDemo/HostApplication/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libCoreAPI.a
-/Users/mva/projects/rho/rho-private-apps/MobileInstallationDemo/HostApplication/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libAudioCapture.a
-/Users/mva/projects/rho/rho-private-apps/MobileInstallationDemo/HostApplication/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libBarcode.a
-/Users/mva/projects/rho/rho-private-apps/MobileInstallationDemo/HostApplication/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libSignature.a
-/Users/mva/projects/rho/rho-private-apps/MobileInstallationDemo/HostApplication/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libIndicators.a
-/Users/mva/projects/rho/rho-private-apps/MobileInstallationDemo/HostApplication/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libHardwareKeys.a
-/Users/mva/projects/rho/rho-private-apps/MobileInstallationDemo/HostApplication/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libSensor.a
