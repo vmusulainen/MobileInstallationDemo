@@ -1,0 +1,25 @@
+<div data-role="page" data-url="<%= Rho::Application.startURI %>/">
+
+  <div data-role="header" data-position="inline">
+    <h4>Host Application</h4>
+
+    <div data-role="content">
+      <h5>Page was refreshed at <%= Time.now %></h5>
+
+      <% if !sub_apps.empty? %>
+
+          <% sub_apps.each do |sub_app| %>
+              <form method="POST" action="<%= url_for(:action => 'switchtab', :query => {:tab => sub_app[:index].to_s}) %>">
+                <input type="submit" value="<%= sub_app[:label] %>"/>
+              </form>
+          <% end %>
+
+      <% end %>
+      <form method="POST" action="<%= url_for(:action => :download) %>">
+        <input type="submit" value="Update App"/>
+      </form>
+    </div>
+
+  </div>
+
+</div>

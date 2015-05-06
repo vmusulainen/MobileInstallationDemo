@@ -1,0 +1,8 @@
+app/SubApps/AppOne/controller.rb
+app/SubApps/AppOne/index.erb
+app/SubApps/AppOne/config.json
+app/SubApps/AppOne/layout.erb
+app/SubApps/AppTwo/controller.rb
+app/SubApps/AppTwo/index.erb
+app/SubApps/AppTwo/config.json
+app/SubApps/AppTwo/layout.erb

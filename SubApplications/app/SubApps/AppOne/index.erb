@@ -1,0 +1,10 @@
+<div data-role="page">
+  <div data-role="header" data-position="inline">
+    <h4>Application One</h4>
+    <a href="<%= url_for(:controller => :Host, :action => 'switchToHostApp') %>" class="ui-btn-left" data-icon="home" data-direction="reverse">Apps</a>
+    <div data-role="content">
+      App One is running
+      <h5>Page was refreshed at <%= Time.now %></h5>
+    </div>
+  </div>
+</div>
